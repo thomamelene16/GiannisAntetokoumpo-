@@ -1,0 +1,42 @@
+body {
+  background-image: 
+  background-position: center center ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 250px 250px;
+  background-color: #fafcfb;
+  rgba(126, 230, 217,0.5)
+  }
+  h1 {
+  background-color: #21a696;
+  text-align: center;
+  margin: 0px 750px;
+  }
+  h2 {
+  text-align: center;	  
+  }
+  p{
+	  font-size: 20px;
+  }
+  div {
+  background-color: #bac4cf;
+  opacity: 0,6;
+  }
+  }
+  div {
+  background-color: white;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  }
+  p1.normal {
+  font-style: normal;
+}
+
+.thomas{
+	margin: 10px 350px 10px 20px;
+}
+  <p class="normal">This is a paragraph.</p>
+  <p1>The font-weight property</p1>
+
